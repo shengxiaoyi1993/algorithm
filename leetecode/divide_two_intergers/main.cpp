@@ -6,6 +6,6 @@ int main(){
   Solution tmp;
 
 
-cout<<tmp.divide(-2147483648,-1)<<endl;;
+cout<<tmp.divide(-7,-3)<<endl;;
   return 0;
 }
