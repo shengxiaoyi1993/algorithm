@@ -82,8 +82,6 @@ public:
           return v_mid;
         }
 
-
-
         // cout<<"tail v_start: "<<v_start<<"v_end: "<<v_end<<endl;
 
       }
